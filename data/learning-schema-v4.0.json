@@ -1,0 +1,34 @@
+{
+  "version": "4.0",
+  "philosophy": "Every lesson must teach → practice → evaluate → improve.",
+  "lessonStructure": [
+    "Overview",
+    "Learning Objective",
+    "Theory",
+    "Examples",
+    "Guided Analysis",
+    "Skill Practice",
+    "Homework",
+    "AI Feedback",
+    "Rewrite",
+    "Reflection",
+    "Mastered"
+  ],
+  "masteryGate": [
+    "guidedPractice",
+    "independentPractice",
+    "homework",
+    "aiFeedback",
+    "rewrite",
+    "reflection",
+    "reviewQuiz"
+  ],
+  "resources": [
+    "lessonPdf",
+    "vocabularySheet",
+    "grammarNotes",
+    "band9Example",
+    "reference"
+  ],
+  "migration": "v2/v3 progress, XP, teacher notes, homework, essays, error book and user data are kept in localStorage/system store."
+}

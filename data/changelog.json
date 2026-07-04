@@ -1,0 +1,77 @@
+[
+  {
+    "version": "v3.0",
+    "title": "Major Update — Instructional Design LMS + AI Tutor Platform",
+    "date": "2026-07-04",
+    "changes": [
+      "Redesigned chapters into learning roadmap",
+      "Rebuilt lesson pedagogy: Lesson Objective → Theory → Examples → Common Mistakes → Skill Practice → Homework → Feedback → Rewrite → Reflection → Success Criteria → Mastered",
+      "Structured exercises with Objective/Situation/Task/Requirement/Example/Checklist/Expected Outcome",
+      "Dynamic Ask Chị Context Engine with Quick, Standard, Full Context, Essay Review, Homework Review, Grammar Help, Vocabulary Help and Brainstorm Help",
+      "Course QA Mode added to every lesson",
+      "v2.x → v3.0 migration keeps accounts, progress, XP, homework, essays, errors and teacher notes"
+    ]
+  },
+  {
+    "version": "v2.1",
+    "date": "2026-07-04",
+    "title": "Lesson Pedagogy + Exercise Bank + Coding UI",
+    "details": [
+      "One lesson = one skill rule",
+      "Lesson 1 orientation fixed",
+      "Skill Practice renamed",
+      "1000+ micro exercises",
+      "Exercise Bank with generator",
+      "Coding dashboard UI polish"
+    ]
+  },
+  {
+    "version": "v1.0",
+    "date": "2026-07-03",
+    "title": "Offline LMS",
+    "details": [
+      "Dashboard, Roadmap, Lesson, Practice, Homework, Essay Workspace, Prompt Bank, Error Book, Vocabulary, Idea Bank, Feedback, Study Buddy.",
+      "70 lessons, 210 prompts, 210 vocabulary items, 135 idea-bank entries."
+    ]
+  },
+  {
+    "version": "v1.1",
+    "date": "2026-07-04",
+    "title": "Learning Data + Teacher Workflow",
+    "details": [
+      "Student Profile, Backup & Profile, Teacher Notes, Lesson History, Band History, Review Queue, Revision History.",
+      "Ask Teacher Prompt Generator and Study Buddy workflow."
+    ]
+  },
+  {
+    "version": "v2.0",
+    "date": "2026-07-04",
+    "title": "Intelligent IELTS Writing Tutor",
+    "details": [
+      "Today's Learning Plan, onboarding, locked lesson workflow, adaptive homework rules, daily study sessions.",
+      "Review Queue page, Band Tracker, Teacher Mode, Custom Assignment, smarter Essay revision pipeline."
+    ]
+  },
+  {
+    "version": "v2.2",
+    "date": "2026-07-04",
+    "title": "Context Engine + Multi-User LMS",
+    "details": [
+      "Dynamic Ask Teacher Prompt with Quick / Standard / Full Context modes",
+      "LocalStorage multi-user accounts with student / teacher / admin roles",
+      "Admin Dashboard, Teacher Dashboard, User Management and Course Builder",
+      "Student Export and Admin Export",
+      "Role-based sidebar and account switcher"
+    ]
+  },
+  {
+    "version": "v3.0.1",
+    "date": "2026-07-04",
+    "title": "Idea Bank Hotfix + IELTS Prompt Overload",
+    "details": [
+      "Fixed Idea Bank render error caused by old IELTS_DATA.ideas alias.",
+      "Expanded Prompt Bank to 1,680 IELTS Task 2 prompts across 20 topics and 7 essay types.",
+      "Prompt Bank now feels more like a real IELTS practice library for daily study."
+    ]
+  }
+]

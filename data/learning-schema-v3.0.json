@@ -1,0 +1,38 @@
+{
+  "version": "3.0",
+  "entities": [
+    "users",
+    "courses",
+    "chapters",
+    "lessons",
+    "exercises",
+    "assignments",
+    "submissions",
+    "feedback",
+    "errors",
+    "bandHistory",
+    "courseQAFeedback"
+  ],
+  "localStorageKeys": [
+    "ieltsAcademyV22System",
+    "studentProfile",
+    "lessonStatus",
+    "lessonHistory",
+    "studySessions",
+    "homework",
+    "essays",
+    "revisionHistory",
+    "errors",
+    "reviewQueue",
+    "vocabulary",
+    "teacherNotes",
+    "feedback",
+    "bandHistory",
+    "customAssignments",
+    "courseQAFeedback",
+    "settings",
+    "badges",
+    "featureRequests"
+  ],
+  "migration": "v2.x -> v3.0 keeps progress, XP, homework, essays, teacher notes, error log and adds instructional-design fields."
+}

@@ -1,0 +1,26 @@
+{
+  "version": "2.0",
+  "localStorageKeys": [
+    "studentProfile",
+    "completedLessons",
+    "lessonStatus",
+    "lessonHistory",
+    "studySessions",
+    "homework",
+    "essays",
+    "revisionHistory",
+    "errors",
+    "reviewQueue",
+    "vocabulary",
+    "ideaBank",
+    "teacherNotes",
+    "feedback",
+    "bandHistory",
+    "customAssignments",
+    "studyBuddy",
+    "settings",
+    "badges",
+    "featureRequests"
+  ],
+  "workflow": "Learn → Practice → Homework → Teacher Feedback → Rewrite → Review → Mastered"
+}

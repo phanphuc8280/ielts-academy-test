@@ -1,0 +1,37 @@
+{
+  "version": "2.2",
+  "collections": [
+    "users",
+    "userData",
+    "courses",
+    "lessons",
+    "assignments",
+    "submissions",
+    "feedback",
+    "errors",
+    "bandHistory"
+  ],
+  "userObject": [
+    "id",
+    "userId",
+    "name",
+    "role",
+    "username",
+    "pin",
+    "avatar",
+    "currentBand",
+    "targetBand",
+    "examDate",
+    "createdAt",
+    "updatedAt",
+    "lastLogin",
+    "status"
+  ],
+  "promptLevels": [
+    "Quick",
+    "Standard",
+    "Full Context"
+  ],
+  "localStorageKey": "ieltsAcademyV22System",
+  "privacy": "Offline demo only. PIN is not real security."
+}

@@ -1,0 +1,65 @@
+{
+  "version": "1.1",
+  "key": "ieltsAcademyV1",
+  "newKeys": {
+    "studentProfile": [
+      "name",
+      "currentBand",
+      "targetBand",
+      "startDate",
+      "testDate",
+      "sessionsPerWeek",
+      "dailyGoal.lessons",
+      "dailyGoal.minutes",
+      "dailyGoal.exercises"
+    ],
+    "teacherNotes": [
+      "date",
+      "lessonId",
+      "studentName",
+      "strengths",
+      "weaknesses",
+      "nextHomework",
+      "teacherComment",
+      "status active/resolved"
+    ],
+    "lessonHistory": [
+      "lessonId",
+      "startedAt",
+      "completedAt",
+      "timeSpent",
+      "status learn/practice/homework/reviewed/rewrite/mastered",
+      "reflection"
+    ],
+    "bandHistory": [
+      "date",
+      "essayId",
+      "taskResponse",
+      "coherence",
+      "lexical",
+      "grammar",
+      "overallBand",
+      "teacherComment"
+    ],
+    "reviewQueue": [
+      "errorType",
+      "relatedLessonId",
+      "priority high/medium/low",
+      "nextReviewDate",
+      "status pending/done"
+    ],
+    "revisionHistory": [
+      "draft 1",
+      "teacher feedback",
+      "rewrite 1",
+      "rewrite 2",
+      "final version"
+    ],
+    "featureRequests": [
+      "title",
+      "reason",
+      "priority",
+      "status"
+    ]
+  }
+}

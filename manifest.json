@@ -1,0 +1,10 @@
+{
+  "name": "IELTS Academy v4.0 – LMS + AI Tutor Platform",
+  "short_name": "IELTS Academy",
+  "version": "3.0.0",
+  "description": "Offline IELTS Writing Task 2 LMS with instructional design, dynamic Ask Teacher context engine, multi-user mode, teacher/admin dashboards and Course QA Mode.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#070b18"
+}

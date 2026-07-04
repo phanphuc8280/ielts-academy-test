@@ -1,0 +1,34 @@
+{
+  "version": "3.0",
+  "pedagogy": [
+    "One lesson = one skill",
+    "Skill Practice luyện đúng skill của lesson",
+    "Homework luyện đúng skill của lesson",
+    "Prompt chỉ là context, không phải exercise",
+    "Full essay unlocks after Introduction + Body + Conclusion",
+    "Mastered requires feedback + rewrite/reflection"
+  ],
+  "masteryRequired": [
+    "learn",
+    "skillPractice",
+    "homework",
+    "teacherFeedback",
+    "rewrite",
+    "reflection"
+  ],
+  "promptLevels": [
+    "Quick",
+    "Standard",
+    "Full Context",
+    "Essay Review",
+    "Homework Review",
+    "Grammar Help",
+    "Vocabulary Help",
+    "Brainstorm Help"
+  ],
+  "migration": [
+    "v2.x data kept in ieltsAcademyV22System",
+    "normalizeSystem upgrades objects to version 3.0",
+    "courseQAFeedback added without reset"
+  ]
+}

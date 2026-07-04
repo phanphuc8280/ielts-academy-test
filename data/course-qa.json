@@ -1,0 +1,32 @@
+[
+  {
+    "id": "qa_easy",
+    "label": "Bài này có dễ hiểu không?",
+    "type": "rating"
+  },
+  {
+    "id": "qa_theory_practice",
+    "label": "Lý thuyết có liên quan bài tập không?",
+    "type": "rating"
+  },
+  {
+    "id": "qa_requirement",
+    "label": "Bài tập có rõ yêu cầu không?",
+    "type": "rating"
+  },
+  {
+    "id": "qa_knows_what_to_do",
+    "label": "Em có biết phải làm gì không?",
+    "type": "rating"
+  },
+  {
+    "id": "qa_mastery_clear",
+    "label": "Em có biết khi nào được Mastered không?",
+    "type": "rating"
+  },
+  {
+    "id": "qa_feedback",
+    "label": "Em muốn góp ý gì để sửa lesson này?",
+    "type": "textarea"
+  }
+]

@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "i001",
+    "topic": "Education",
+    "commonQuestion": "schools should teach practical life skills instead of traditional academic subjects",
+    "mainIdea": "A major point is that schools can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "vocational training",
+      "student engagement",
+      "academic pressure"
+    ],
+    "commonIssue": "schools should teach practical life skills instead of traditional academic subjects",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i002",
+    "topic": "Education",
+    "commonQuestion": "students are increasingly using online courses rather than attending physical classrooms",
+    "mainIdea": "A major point is that education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "practical curriculum",
+      "student engagement",
+      "lifelong learning"
+    ],
+    "commonIssue": "students are increasingly using online courses rather than attending physical classrooms",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i003",
+    "topic": "Education",
+    "commonQuestion": "university education should be free for all students",
+    "mainIdea": "A major point is that university education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "vocational training",
+      "critical thinking",
+      "equal access"
+    ],
+    "commonIssue": "university education should be free for all students",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i004",
+    "topic": "Education",
+    "commonQuestion": "schools should teach practical life skills instead of traditional academic subjects",
+    "mainIdea": "A major point is that schools can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "equal access",
+      "practical curriculum",
+      "academic pressure"
+    ],
+    "commonIssue": "schools should teach practical life skills instead of traditional academic subjects",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i005",
+    "topic": "Education",
+    "commonQuestion": "students are increasingly using online courses rather than attending physical classrooms",
+    "mainIdea": "A major point is that education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "vocational training",
+      "lifelong learning",
+      "practical curriculum"
+    ],
+    "commonIssue": "students are increasingly using online courses rather than attending physical classrooms",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i006",
+    "topic": "Education",
+    "commonQuestion": "university education should be free for all students",
+    "mainIdea": "A major point is that university education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "practical curriculum",
+      "lifelong learning",
+      "vocational training"
+    ],
+    "commonIssue": "university education should be free for all students",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i007",
+    "topic": "Education",
+    "commonQuestion": "schools should teach practical life skills instead of traditional academic subjects",
+    "mainIdea": "A major point is that schools can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital literacy",
+      "vocational training",
+      "equal access"
+    ],
+    "commonIssue": "schools should teach practical life skills instead of traditional academic subjects",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i008",
+    "topic": "Education",
+    "commonQuestion": "students are increasingly using online courses rather than attending physical classrooms",
+    "mainIdea": "A major point is that education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "student engagement",
+      "lifelong learning",
+      "digital literacy"
+    ],
+    "commonIssue": "students are increasingly using online courses rather than attending physical classrooms",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i009",
+    "topic": "Education",
+    "commonQuestion": "university education should be free for all students",
+    "mainIdea": "A major point is that university education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when education policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "academic pressure",
+      "critical thinking",
+      "digital literacy"
+    ],
+    "commonIssue": "university education should be free for all students",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i010",
+    "topic": "Technology",
+    "commonQuestion": "artificial intelligence will replace many human jobs in the future",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital addiction",
+      "AI-driven tools",
+      "online interaction"
+    ],
+    "commonIssue": "artificial intelligence will replace many human jobs in the future",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i011",
+    "topic": "Technology",
+    "commonQuestion": "children are spending too much time on digital devices",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital addiction",
+      "AI-driven tools",
+      "digital divide"
+    ],
+    "commonIssue": "children are spending too much time on digital devices",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i012",
+    "topic": "Technology",
+    "commonQuestion": "technology has made communication less meaningful",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital addiction",
+      "AI-driven tools",
+      "automation"
+    ],
+    "commonIssue": "technology has made communication less meaningful",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i013",
+    "topic": "Technology",
+    "commonQuestion": "artificial intelligence will replace many human jobs in the future",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital addiction",
+      "technological literacy",
+      "online interaction"
+    ],
+    "commonIssue": "artificial intelligence will replace many human jobs in the future",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i014",
+    "topic": "Technology",
+    "commonQuestion": "children are spending too much time on digital devices",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "screen time",
+      "automation",
+      "technological literacy"
+    ],
+    "commonIssue": "children are spending too much time on digital devices",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i015",
+    "topic": "Technology",
+    "commonQuestion": "technology has made communication less meaningful",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "technological literacy",
+      "digital addiction",
+      "screen time"
+    ],
+    "commonIssue": "technology has made communication less meaningful",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i016",
+    "topic": "Technology",
+    "commonQuestion": "artificial intelligence will replace many human jobs in the future",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital addiction",
+      "AI-driven tools",
+      "online interaction"
+    ],
+    "commonIssue": "artificial intelligence will replace many human jobs in the future",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i017",
+    "topic": "Technology",
+    "commonQuestion": "children are spending too much time on digital devices",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "screen time",
+      "AI-driven tools",
+      "online interaction"
+    ],
+    "commonIssue": "children are spending too much time on digital devices",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i018",
+    "topic": "Technology",
+    "commonQuestion": "technology has made communication less meaningful",
+    "mainIdea": "A major point is that technology can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when technology policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "online interaction",
+      "technological literacy",
+      "data privacy"
+    ],
+    "commonIssue": "technology has made communication less meaningful",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i019",
+    "topic": "Environment",
+    "commonQuestion": "governments should introduce stricter laws to reduce plastic waste",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "single-use plastic",
+      "wildlife protection",
+      "carbon emissions"
+    ],
+    "commonIssue": "governments should introduce stricter laws to reduce plastic waste",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i020",
+    "topic": "Environment",
+    "commonQuestion": "individual actions are not enough to solve climate change",
+    "mainIdea": "A major point is that environment can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "carbon emissions",
+      "climate policy",
+      "renewable energy"
+    ],
+    "commonIssue": "individual actions are not enough to solve climate change",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i021",
+    "topic": "Environment",
+    "commonQuestion": "cities should create more green spaces instead of building new roads",
+    "mainIdea": "A major point is that cities can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "urban greenery",
+      "renewable energy",
+      "single-use plastic"
+    ],
+    "commonIssue": "cities should create more green spaces instead of building new roads",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i022",
+    "topic": "Environment",
+    "commonQuestion": "governments should introduce stricter laws to reduce plastic waste",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "environmental awareness",
+      "single-use plastic",
+      "carbon emissions"
+    ],
+    "commonIssue": "governments should introduce stricter laws to reduce plastic waste",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i023",
+    "topic": "Environment",
+    "commonQuestion": "individual actions are not enough to solve climate change",
+    "mainIdea": "A major point is that environment can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "wildlife protection",
+      "renewable energy",
+      "climate policy"
+    ],
+    "commonIssue": "individual actions are not enough to solve climate change",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i024",
+    "topic": "Environment",
+    "commonQuestion": "cities should create more green spaces instead of building new roads",
+    "mainIdea": "A major point is that cities can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "carbon emissions",
+      "renewable energy",
+      "sustainable habits"
+    ],
+    "commonIssue": "cities should create more green spaces instead of building new roads",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i025",
+    "topic": "Environment",
+    "commonQuestion": "governments should introduce stricter laws to reduce plastic waste",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "renewable energy",
+      "single-use plastic",
+      "carbon emissions"
+    ],
+    "commonIssue": "governments should introduce stricter laws to reduce plastic waste",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i026",
+    "topic": "Environment",
+    "commonQuestion": "individual actions are not enough to solve climate change",
+    "mainIdea": "A major point is that environment can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "carbon emissions",
+      "sustainable habits",
+      "environmental awareness"
+    ],
+    "commonIssue": "individual actions are not enough to solve climate change",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i027",
+    "topic": "Environment",
+    "commonQuestion": "cities should create more green spaces instead of building new roads",
+    "mainIdea": "A major point is that cities can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when environment policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "urban greenery",
+      "carbon emissions",
+      "environmental awareness"
+    ],
+    "commonIssue": "cities should create more green spaces instead of building new roads",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i028",
+    "topic": "Health",
+    "commonQuestion": "governments should tax unhealthy food to improve public health",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "work-life balance",
+      "public health campaigns",
+      "balanced diet"
+    ],
+    "commonIssue": "governments should tax unhealthy food to improve public health",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i029",
+    "topic": "Health",
+    "commonQuestion": "people today rely too much on medicine instead of maintaining a healthy lifestyle",
+    "mainIdea": "A major point is that health can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "medical resources",
+      "sedentary lifestyle",
+      "public health campaigns"
+    ],
+    "commonIssue": "people today rely too much on medicine instead of maintaining a healthy lifestyle",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i030",
+    "topic": "Health",
+    "commonQuestion": "mental health should be taught in schools",
+    "mainIdea": "A major point is that mental health can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public health campaigns",
+      "health literacy",
+      "balanced diet"
+    ],
+    "commonIssue": "mental health should be taught in schools",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i031",
+    "topic": "Health",
+    "commonQuestion": "governments should tax unhealthy food to improve public health",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "health literacy",
+      "mental well-being",
+      "work-life balance"
+    ],
+    "commonIssue": "governments should tax unhealthy food to improve public health",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i032",
+    "topic": "Health",
+    "commonQuestion": "people today rely too much on medicine instead of maintaining a healthy lifestyle",
+    "mainIdea": "A major point is that health can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "health literacy",
+      "work-life balance",
+      "sedentary lifestyle"
+    ],
+    "commonIssue": "people today rely too much on medicine instead of maintaining a healthy lifestyle",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i033",
+    "topic": "Health",
+    "commonQuestion": "mental health should be taught in schools",
+    "mainIdea": "A major point is that mental health can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "medical resources",
+      "mental well-being",
+      "health literacy"
+    ],
+    "commonIssue": "mental health should be taught in schools",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i034",
+    "topic": "Health",
+    "commonQuestion": "governments should tax unhealthy food to improve public health",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "mental well-being",
+      "health literacy",
+      "medical resources"
+    ],
+    "commonIssue": "governments should tax unhealthy food to improve public health",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i035",
+    "topic": "Health",
+    "commonQuestion": "people today rely too much on medicine instead of maintaining a healthy lifestyle",
+    "mainIdea": "A major point is that health can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public health campaigns",
+      "balanced diet",
+      "preventive healthcare"
+    ],
+    "commonIssue": "people today rely too much on medicine instead of maintaining a healthy lifestyle",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i036",
+    "topic": "Health",
+    "commonQuestion": "mental health should be taught in schools",
+    "mainIdea": "A major point is that mental health can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when health policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "balanced diet",
+      "health literacy",
+      "work-life balance"
+    ],
+    "commonIssue": "mental health should be taught in schools",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i037",
+    "topic": "Work",
+    "commonQuestion": "remote work should become a permanent option for employees",
+    "mainIdea": "A major point is that remote work can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "employee well-being",
+      "flexible schedule",
+      "job security"
+    ],
+    "commonIssue": "remote work should become a permanent option for employees",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i038",
+    "topic": "Work",
+    "commonQuestion": "young people change jobs more often than previous generations",
+    "mainIdea": "A major point is that work can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "employee well-being",
+      "professional development",
+      "remote working"
+    ],
+    "commonIssue": "young people change jobs more often than previous generations",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i039",
+    "topic": "Work",
+    "commonQuestion": "companies should reduce working hours without reducing pay",
+    "mainIdea": "A major point is that companies can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "flexible schedule",
+      "labour market",
+      "professional development"
+    ],
+    "commonIssue": "companies should reduce working hours without reducing pay",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i040",
+    "topic": "Work",
+    "commonQuestion": "remote work should become a permanent option for employees",
+    "mainIdea": "A major point is that remote work can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "job security",
+      "career progression",
+      "flexible schedule"
+    ],
+    "commonIssue": "remote work should become a permanent option for employees",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i041",
+    "topic": "Work",
+    "commonQuestion": "young people change jobs more often than previous generations",
+    "mainIdea": "A major point is that work can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "remote working",
+      "job security",
+      "workplace productivity"
+    ],
+    "commonIssue": "young people change jobs more often than previous generations",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i042",
+    "topic": "Work",
+    "commonQuestion": "companies should reduce working hours without reducing pay",
+    "mainIdea": "A major point is that companies can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "remote working",
+      "career progression",
+      "job security"
+    ],
+    "commonIssue": "companies should reduce working hours without reducing pay",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i043",
+    "topic": "Work",
+    "commonQuestion": "remote work should become a permanent option for employees",
+    "mainIdea": "A major point is that remote work can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "professional development",
+      "job security",
+      "flexible schedule"
+    ],
+    "commonIssue": "remote work should become a permanent option for employees",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i044",
+    "topic": "Work",
+    "commonQuestion": "young people change jobs more often than previous generations",
+    "mainIdea": "A major point is that work can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "workplace productivity",
+      "job security",
+      "flexible schedule"
+    ],
+    "commonIssue": "young people change jobs more often than previous generations",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i045",
+    "topic": "Work",
+    "commonQuestion": "companies should reduce working hours without reducing pay",
+    "mainIdea": "A major point is that companies can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when work policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "employee well-being",
+      "labour market",
+      "remote working"
+    ],
+    "commonIssue": "companies should reduce working hours without reducing pay",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i046",
+    "topic": "Government",
+    "commonQuestion": "governments should spend more money on public services than on the arts",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "tax revenue",
+      "national priorities",
+      "public accountability"
+    ],
+    "commonIssue": "governments should spend more money on public services than on the arts",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i047",
+    "topic": "Government",
+    "commonQuestion": "politicians should be required to retire at a certain age",
+    "mainIdea": "A major point is that politicians can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "state support",
+      "policy makers",
+      "tax revenue"
+    ],
+    "commonIssue": "politicians should be required to retire at a certain age",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i048",
+    "topic": "Government",
+    "commonQuestion": "public money should be used to support local businesses",
+    "mainIdea": "A major point is that public money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "long-term planning",
+      "social welfare",
+      "public accountability"
+    ],
+    "commonIssue": "public money should be used to support local businesses",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i049",
+    "topic": "Government",
+    "commonQuestion": "governments should spend more money on public services than on the arts",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "national priorities",
+      "public accountability",
+      "state support"
+    ],
+    "commonIssue": "governments should spend more money on public services than on the arts",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i050",
+    "topic": "Government",
+    "commonQuestion": "politicians should be required to retire at a certain age",
+    "mainIdea": "A major point is that politicians can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "policy makers",
+      "public accountability",
+      "long-term planning"
+    ],
+    "commonIssue": "politicians should be required to retire at a certain age",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i051",
+    "topic": "Government",
+    "commonQuestion": "public money should be used to support local businesses",
+    "mainIdea": "A major point is that public money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "social welfare",
+      "national priorities",
+      "public funding"
+    ],
+    "commonIssue": "public money should be used to support local businesses",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i052",
+    "topic": "Government",
+    "commonQuestion": "governments should spend more money on public services than on the arts",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "tax revenue",
+      "state support",
+      "national priorities"
+    ],
+    "commonIssue": "governments should spend more money on public services than on the arts",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i053",
+    "topic": "Government",
+    "commonQuestion": "politicians should be required to retire at a certain age",
+    "mainIdea": "A major point is that politicians can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public funding",
+      "tax revenue",
+      "national priorities"
+    ],
+    "commonIssue": "politicians should be required to retire at a certain age",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i054",
+    "topic": "Government",
+    "commonQuestion": "public money should be used to support local businesses",
+    "mainIdea": "A major point is that public money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when government policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public accountability",
+      "national priorities",
+      "social welfare"
+    ],
+    "commonIssue": "public money should be used to support local businesses",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i055",
+    "topic": "Society",
+    "commonQuestion": "modern society has become more individualistic",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "community spirit",
+      "social inequality",
+      "public trust"
+    ],
+    "commonIssue": "modern society has become more individualistic",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i056",
+    "topic": "Society",
+    "commonQuestion": "young people today have fewer responsibilities than in the past",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "social cohesion",
+      "shared values",
+      "civic responsibility"
+    ],
+    "commonIssue": "young people today have fewer responsibilities than in the past",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i057",
+    "topic": "Society",
+    "commonQuestion": "community activities are becoming less popular",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "civic responsibility",
+      "individual freedom",
+      "social inequality"
+    ],
+    "commonIssue": "community activities are becoming less popular",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i058",
+    "topic": "Society",
+    "commonQuestion": "modern society has become more individualistic",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "shared values",
+      "public trust",
+      "social inequality"
+    ],
+    "commonIssue": "modern society has become more individualistic",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i059",
+    "topic": "Society",
+    "commonQuestion": "young people today have fewer responsibilities than in the past",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "civic responsibility",
+      "generational gap",
+      "public trust"
+    ],
+    "commonIssue": "young people today have fewer responsibilities than in the past",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i060",
+    "topic": "Society",
+    "commonQuestion": "community activities are becoming less popular",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public trust",
+      "social cohesion",
+      "community spirit"
+    ],
+    "commonIssue": "community activities are becoming less popular",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i061",
+    "topic": "Society",
+    "commonQuestion": "modern society has become more individualistic",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "shared values",
+      "civic responsibility",
+      "generational gap"
+    ],
+    "commonIssue": "modern society has become more individualistic",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i062",
+    "topic": "Society",
+    "commonQuestion": "young people today have fewer responsibilities than in the past",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "shared values",
+      "social cohesion",
+      "individual freedom"
+    ],
+    "commonIssue": "young people today have fewer responsibilities than in the past",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i063",
+    "topic": "Society",
+    "commonQuestion": "community activities are becoming less popular",
+    "mainIdea": "A major point is that society can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when society policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public trust",
+      "shared values",
+      "community spirit"
+    ],
+    "commonIssue": "community activities are becoming less popular",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i064",
+    "topic": "Crime",
+    "commonQuestion": "prisons should focus more on rehabilitation than punishment",
+    "mainIdea": "A major point is that prisons can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "law enforcement",
+      "root causes",
+      "reoffending rates"
+    ],
+    "commonIssue": "prisons should focus more on rehabilitation than punishment",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i065",
+    "topic": "Crime",
+    "commonQuestion": "the media should not report details of serious crimes",
+    "mainIdea": "A major point is that the media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "juvenile offenders",
+      "public safety",
+      "root causes"
+    ],
+    "commonIssue": "the media should not report details of serious crimes",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i066",
+    "topic": "Crime",
+    "commonQuestion": "poverty is the main cause of crime",
+    "mainIdea": "A major point is that crime can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "root causes",
+      "deterrent effect",
+      "public safety"
+    ],
+    "commonIssue": "poverty is the main cause of crime",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i067",
+    "topic": "Crime",
+    "commonQuestion": "prisons should focus more on rehabilitation than punishment",
+    "mainIdea": "A major point is that prisons can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "rehabilitation programmes",
+      "public safety",
+      "root causes"
+    ],
+    "commonIssue": "prisons should focus more on rehabilitation than punishment",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i068",
+    "topic": "Crime",
+    "commonQuestion": "the media should not report details of serious crimes",
+    "mainIdea": "A major point is that the media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "root causes",
+      "public safety",
+      "rehabilitation programmes"
+    ],
+    "commonIssue": "the media should not report details of serious crimes",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i069",
+    "topic": "Crime",
+    "commonQuestion": "poverty is the main cause of crime",
+    "mainIdea": "A major point is that crime can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "law enforcement",
+      "reoffending rates",
+      "root causes"
+    ],
+    "commonIssue": "poverty is the main cause of crime",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i070",
+    "topic": "Crime",
+    "commonQuestion": "prisons should focus more on rehabilitation than punishment",
+    "mainIdea": "A major point is that prisons can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "juvenile offenders",
+      "crime prevention",
+      "public safety"
+    ],
+    "commonIssue": "prisons should focus more on rehabilitation than punishment",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i071",
+    "topic": "Crime",
+    "commonQuestion": "the media should not report details of serious crimes",
+    "mainIdea": "A major point is that the media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "crime prevention",
+      "public safety",
+      "law enforcement"
+    ],
+    "commonIssue": "the media should not report details of serious crimes",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i072",
+    "topic": "Crime",
+    "commonQuestion": "poverty is the main cause of crime",
+    "mainIdea": "A major point is that crime can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when crime policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "crime prevention",
+      "law enforcement",
+      "rehabilitation programmes"
+    ],
+    "commonIssue": "poverty is the main cause of crime",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i073",
+    "topic": "Media",
+    "commonQuestion": "social media has a negative effect on public debate",
+    "mainIdea": "A major point is that media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "online platforms",
+      "misinformation",
+      "content moderation"
+    ],
+    "commonIssue": "social media has a negative effect on public debate",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i074",
+    "topic": "Media",
+    "commonQuestion": "news organisations should focus more on positive stories",
+    "mainIdea": "A major point is that news organisations can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital influence",
+      "misinformation",
+      "media literacy"
+    ],
+    "commonIssue": "news organisations should focus more on positive stories",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i075",
+    "topic": "Media",
+    "commonQuestion": "influencers have more impact on young people than traditional celebrities",
+    "mainIdea": "A major point is that media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "content moderation",
+      "online platforms",
+      "digital influence"
+    ],
+    "commonIssue": "influencers have more impact on young people than traditional celebrities",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i076",
+    "topic": "Media",
+    "commonQuestion": "social media has a negative effect on public debate",
+    "mainIdea": "A major point is that media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital influence",
+      "content moderation",
+      "online platforms"
+    ],
+    "commonIssue": "social media has a negative effect on public debate",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i077",
+    "topic": "Media",
+    "commonQuestion": "news organisations should focus more on positive stories",
+    "mainIdea": "A major point is that news organisations can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "digital influence",
+      "media literacy",
+      "sensational news"
+    ],
+    "commonIssue": "news organisations should focus more on positive stories",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i078",
+    "topic": "Media",
+    "commonQuestion": "influencers have more impact on young people than traditional celebrities",
+    "mainIdea": "A major point is that media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "content moderation",
+      "digital influence",
+      "advertising pressure"
+    ],
+    "commonIssue": "influencers have more impact on young people than traditional celebrities",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i079",
+    "topic": "Media",
+    "commonQuestion": "social media has a negative effect on public debate",
+    "mainIdea": "A major point is that media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public opinion",
+      "advertising pressure",
+      "content moderation"
+    ],
+    "commonIssue": "social media has a negative effect on public debate",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i080",
+    "topic": "Media",
+    "commonQuestion": "news organisations should focus more on positive stories",
+    "mainIdea": "A major point is that news organisations can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "content moderation",
+      "advertising pressure",
+      "digital influence"
+    ],
+    "commonIssue": "news organisations should focus more on positive stories",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i081",
+    "topic": "Media",
+    "commonQuestion": "influencers have more impact on young people than traditional celebrities",
+    "mainIdea": "A major point is that media can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when media policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "content moderation",
+      "advertising pressure",
+      "sensational news"
+    ],
+    "commonIssue": "influencers have more impact on young people than traditional celebrities",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i082",
+    "topic": "Family",
+    "commonQuestion": "parents should be held responsible for their children’s behaviour",
+    "mainIdea": "A major point is that parents can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "role model",
+      "household responsibilities",
+      "parental guidance"
+    ],
+    "commonIssue": "parents should be held responsible for their children’s behaviour",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i083",
+    "topic": "Family",
+    "commonQuestion": "families are spending less time together than before",
+    "mainIdea": "A major point is that family can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "family bonding",
+      "parental guidance",
+      "household responsibilities"
+    ],
+    "commonIssue": "families are spending less time together than before",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i084",
+    "topic": "Family",
+    "commonQuestion": "children should help with household tasks from a young age",
+    "mainIdea": "A major point is that children can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "emotional support",
+      "family bonding",
+      "child development"
+    ],
+    "commonIssue": "children should help with household tasks from a young age",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i085",
+    "topic": "Family",
+    "commonQuestion": "parents should be held responsible for their children’s behaviour",
+    "mainIdea": "A major point is that parents can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "generation gap",
+      "child development",
+      "household responsibilities"
+    ],
+    "commonIssue": "parents should be held responsible for their children’s behaviour",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i086",
+    "topic": "Family",
+    "commonQuestion": "families are spending less time together than before",
+    "mainIdea": "A major point is that family can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "parental guidance",
+      "emotional support",
+      "family bonding"
+    ],
+    "commonIssue": "families are spending less time together than before",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i087",
+    "topic": "Family",
+    "commonQuestion": "children should help with household tasks from a young age",
+    "mainIdea": "A major point is that children can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "family bonding",
+      "child development",
+      "parental guidance"
+    ],
+    "commonIssue": "children should help with household tasks from a young age",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i088",
+    "topic": "Family",
+    "commonQuestion": "parents should be held responsible for their children’s behaviour",
+    "mainIdea": "A major point is that parents can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "emotional support",
+      "family bonding",
+      "generation gap"
+    ],
+    "commonIssue": "parents should be held responsible for their children’s behaviour",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i089",
+    "topic": "Family",
+    "commonQuestion": "families are spending less time together than before",
+    "mainIdea": "A major point is that family can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "role model",
+      "household responsibilities",
+      "parenting style"
+    ],
+    "commonIssue": "families are spending less time together than before",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i090",
+    "topic": "Family",
+    "commonQuestion": "children should help with household tasks from a young age",
+    "mainIdea": "A major point is that children can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when family policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "household responsibilities",
+      "child development",
+      "parenting style"
+    ],
+    "commonIssue": "children should help with household tasks from a young age",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i091",
+    "topic": "Transport",
+    "commonQuestion": "governments should invest more in public transport than in roads",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "affordable fares",
+      "traffic congestion",
+      "road safety"
+    ],
+    "commonIssue": "governments should invest more in public transport than in roads",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i092",
+    "topic": "Transport",
+    "commonQuestion": "private cars should be restricted in city centres",
+    "mainIdea": "A major point is that private cars can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "urban planning",
+      "public transport network",
+      "commuting time"
+    ],
+    "commonIssue": "private cars should be restricted in city centres",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i093",
+    "topic": "Transport",
+    "commonQuestion": "cycling should be promoted as a main form of transport",
+    "mainIdea": "A major point is that cycling can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "urban planning",
+      "traffic congestion",
+      "commuting time"
+    ],
+    "commonIssue": "cycling should be promoted as a main form of transport",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i094",
+    "topic": "Transport",
+    "commonQuestion": "governments should invest more in public transport than in roads",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "cycling infrastructure",
+      "commuting time",
+      "affordable fares"
+    ],
+    "commonIssue": "governments should invest more in public transport than in roads",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i095",
+    "topic": "Transport",
+    "commonQuestion": "private cars should be restricted in city centres",
+    "mainIdea": "A major point is that private cars can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "urban planning",
+      "commuting time",
+      "traffic congestion"
+    ],
+    "commonIssue": "private cars should be restricted in city centres",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i096",
+    "topic": "Transport",
+    "commonQuestion": "cycling should be promoted as a main form of transport",
+    "mainIdea": "A major point is that cycling can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "low-emission vehicles",
+      "public transport network",
+      "affordable fares"
+    ],
+    "commonIssue": "cycling should be promoted as a main form of transport",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i097",
+    "topic": "Transport",
+    "commonQuestion": "governments should invest more in public transport than in roads",
+    "mainIdea": "A major point is that governments can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "urban planning",
+      "traffic congestion",
+      "low-emission vehicles"
+    ],
+    "commonIssue": "governments should invest more in public transport than in roads",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i098",
+    "topic": "Transport",
+    "commonQuestion": "private cars should be restricted in city centres",
+    "mainIdea": "A major point is that private cars can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "commuting time",
+      "traffic congestion",
+      "cycling infrastructure"
+    ],
+    "commonIssue": "private cars should be restricted in city centres",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i099",
+    "topic": "Transport",
+    "commonQuestion": "cycling should be promoted as a main form of transport",
+    "mainIdea": "A major point is that cycling can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when transport policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "cycling infrastructure",
+      "traffic congestion",
+      "road safety"
+    ],
+    "commonIssue": "cycling should be promoted as a main form of transport",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i100",
+    "topic": "Globalisation",
+    "commonQuestion": "globalisation is making cultures more similar",
+    "mainIdea": "A major point is that globalisation can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "multinational companies",
+      "global workforce",
+      "shared standards"
+    ],
+    "commonIssue": "globalisation is making cultures more similar",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i101",
+    "topic": "Globalisation",
+    "commonQuestion": "international companies bring more benefits than drawbacks to developing countries",
+    "mainIdea": "A major point is that globalisation can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "economic integration",
+      "cross-cultural exchange",
+      "multinational companies"
+    ],
+    "commonIssue": "international companies bring more benefits than drawbacks to developing countries",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i102",
+    "topic": "Globalisation",
+    "commonQuestion": "people should learn a global language in addition to their mother tongue",
+    "mainIdea": "A major point is that people can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "economic integration",
+      "international cooperation",
+      "global market"
+    ],
+    "commonIssue": "people should learn a global language in addition to their mother tongue",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i103",
+    "topic": "Globalisation",
+    "commonQuestion": "globalisation is making cultures more similar",
+    "mainIdea": "A major point is that globalisation can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "international cooperation",
+      "cultural identity",
+      "cross-cultural exchange"
+    ],
+    "commonIssue": "globalisation is making cultures more similar",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i104",
+    "topic": "Globalisation",
+    "commonQuestion": "international companies bring more benefits than drawbacks to developing countries",
+    "mainIdea": "A major point is that globalisation can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "multinational companies",
+      "cross-cultural exchange",
+      "shared standards"
+    ],
+    "commonIssue": "international companies bring more benefits than drawbacks to developing countries",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i105",
+    "topic": "Globalisation",
+    "commonQuestion": "people should learn a global language in addition to their mother tongue",
+    "mainIdea": "A major point is that people can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "economic integration",
+      "global market",
+      "shared standards"
+    ],
+    "commonIssue": "people should learn a global language in addition to their mother tongue",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i106",
+    "topic": "Globalisation",
+    "commonQuestion": "globalisation is making cultures more similar",
+    "mainIdea": "A major point is that globalisation can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "cross-cultural exchange",
+      "shared standards",
+      "global workforce"
+    ],
+    "commonIssue": "globalisation is making cultures more similar",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i107",
+    "topic": "Globalisation",
+    "commonQuestion": "international companies bring more benefits than drawbacks to developing countries",
+    "mainIdea": "A major point is that globalisation can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "global workforce",
+      "shared standards",
+      "economic integration"
+    ],
+    "commonIssue": "international companies bring more benefits than drawbacks to developing countries",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i108",
+    "topic": "Globalisation",
+    "commonQuestion": "people should learn a global language in addition to their mother tongue",
+    "mainIdea": "A major point is that people can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when globalisation policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "cultural identity",
+      "cross-cultural exchange",
+      "shared standards"
+    ],
+    "commonIssue": "people should learn a global language in addition to their mother tongue",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i109",
+    "topic": "Culture",
+    "commonQuestion": "traditional festivals are losing their importance",
+    "mainIdea": "A major point is that culture can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "local traditions",
+      "cultural diversity",
+      "historical awareness"
+    ],
+    "commonIssue": "traditional festivals are losing their importance",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i110",
+    "topic": "Culture",
+    "commonQuestion": "museums should be free for local residents",
+    "mainIdea": "A major point is that museums can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "national identity",
+      "traditional customs",
+      "historical awareness"
+    ],
+    "commonIssue": "museums should be free for local residents",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i111",
+    "topic": "Culture",
+    "commonQuestion": "young people should learn more about their country’s history",
+    "mainIdea": "A major point is that young people can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "public museums",
+      "cultural diversity",
+      "creative industries"
+    ],
+    "commonIssue": "young people should learn more about their country’s history",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i112",
+    "topic": "Culture",
+    "commonQuestion": "traditional festivals are losing their importance",
+    "mainIdea": "A major point is that culture can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "traditional customs",
+      "public museums",
+      "local traditions"
+    ],
+    "commonIssue": "traditional festivals are losing their importance",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i113",
+    "topic": "Culture",
+    "commonQuestion": "museums should be free for local residents",
+    "mainIdea": "A major point is that museums can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "historical awareness",
+      "national identity",
+      "public museums"
+    ],
+    "commonIssue": "museums should be free for local residents",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i114",
+    "topic": "Culture",
+    "commonQuestion": "young people should learn more about their country’s history",
+    "mainIdea": "A major point is that young people can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "historical awareness",
+      "creative industries",
+      "national identity"
+    ],
+    "commonIssue": "young people should learn more about their country’s history",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i115",
+    "topic": "Culture",
+    "commonQuestion": "traditional festivals are losing their importance",
+    "mainIdea": "A major point is that culture can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "historical awareness",
+      "cultural diversity",
+      "traditional customs"
+    ],
+    "commonIssue": "traditional festivals are losing their importance",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i116",
+    "topic": "Culture",
+    "commonQuestion": "museums should be free for local residents",
+    "mainIdea": "A major point is that museums can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "creative industries",
+      "public museums",
+      "national identity"
+    ],
+    "commonIssue": "museums should be free for local residents",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i117",
+    "topic": "Culture",
+    "commonQuestion": "young people should learn more about their country’s history",
+    "mainIdea": "A major point is that young people can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when culture policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "cultural heritage",
+      "traditional customs",
+      "cultural diversity"
+    ],
+    "commonIssue": "young people should learn more about their country’s history",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i118",
+    "topic": "Money",
+    "commonQuestion": "financial education should be compulsory in schools",
+    "mainIdea": "A major point is that financial education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "income inequality",
+      "economic pressure",
+      "financial independence"
+    ],
+    "commonIssue": "financial education should be compulsory in schools",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i119",
+    "topic": "Money",
+    "commonQuestion": "people are judged too much by their income and possessions",
+    "mainIdea": "A major point is that money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "financial literacy",
+      "consumer culture",
+      "material possessions"
+    ],
+    "commonIssue": "people are judged too much by their income and possessions",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i120",
+    "topic": "Money",
+    "commonQuestion": "saving money is more important than enjoying life in the present",
+    "mainIdea": "A major point is that money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "financial independence",
+      "personal budgeting",
+      "material possessions"
+    ],
+    "commonIssue": "saving money is more important than enjoying life in the present",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i121",
+    "topic": "Money",
+    "commonQuestion": "financial education should be compulsory in schools",
+    "mainIdea": "A major point is that financial education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "financial literacy",
+      "long-term savings",
+      "economic pressure"
+    ],
+    "commonIssue": "financial education should be compulsory in schools",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i122",
+    "topic": "Money",
+    "commonQuestion": "people are judged too much by their income and possessions",
+    "mainIdea": "A major point is that money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "material possessions",
+      "economic pressure",
+      "long-term savings"
+    ],
+    "commonIssue": "people are judged too much by their income and possessions",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i123",
+    "topic": "Money",
+    "commonQuestion": "saving money is more important than enjoying life in the present",
+    "mainIdea": "A major point is that money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "personal budgeting",
+      "long-term savings",
+      "economic pressure"
+    ],
+    "commonIssue": "saving money is more important than enjoying life in the present",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i124",
+    "topic": "Money",
+    "commonQuestion": "financial education should be compulsory in schools",
+    "mainIdea": "A major point is that financial education can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "financial independence",
+      "consumer culture",
+      "material possessions"
+    ],
+    "commonIssue": "financial education should be compulsory in schools",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i125",
+    "topic": "Money",
+    "commonQuestion": "people are judged too much by their income and possessions",
+    "mainIdea": "A major point is that money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "financial independence",
+      "consumer culture",
+      "material possessions"
+    ],
+    "commonIssue": "people are judged too much by their income and possessions",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i126",
+    "topic": "Money",
+    "commonQuestion": "saving money is more important than enjoying life in the present",
+    "mainIdea": "A major point is that money can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when money policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "economic pressure",
+      "material possessions",
+      "financial literacy"
+    ],
+    "commonIssue": "saving money is more important than enjoying life in the present",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i127",
+    "topic": "Tourism",
+    "commonQuestion": "mass tourism damages local communities and the environment",
+    "mainIdea": "A major point is that tourism can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "heritage conservation",
+      "local economy",
+      "cultural sites"
+    ],
+    "commonIssue": "mass tourism damages local communities and the environment",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i128",
+    "topic": "Tourism",
+    "commonQuestion": "international tourism brings more benefits than problems",
+    "mainIdea": "A major point is that tourism can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "environmental damage",
+      "seasonal employment",
+      "overcrowding"
+    ],
+    "commonIssue": "international tourism brings more benefits than problems",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i129",
+    "topic": "Tourism",
+    "commonQuestion": "tourists should pay extra taxes to protect cultural sites",
+    "mainIdea": "A major point is that tourists can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "tourist behaviour",
+      "cultural sites",
+      "sustainable tourism"
+    ],
+    "commonIssue": "tourists should pay extra taxes to protect cultural sites",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i130",
+    "topic": "Tourism",
+    "commonQuestion": "mass tourism damages local communities and the environment",
+    "mainIdea": "A major point is that tourism can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "local economy",
+      "environmental damage",
+      "tourist behaviour"
+    ],
+    "commonIssue": "mass tourism damages local communities and the environment",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i131",
+    "topic": "Tourism",
+    "commonQuestion": "international tourism brings more benefits than problems",
+    "mainIdea": "A major point is that tourism can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "tourist behaviour",
+      "cultural sites",
+      "sustainable tourism"
+    ],
+    "commonIssue": "international tourism brings more benefits than problems",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i132",
+    "topic": "Tourism",
+    "commonQuestion": "tourists should pay extra taxes to protect cultural sites",
+    "mainIdea": "A major point is that tourists can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "overcrowding",
+      "sustainable tourism",
+      "cultural sites"
+    ],
+    "commonIssue": "tourists should pay extra taxes to protect cultural sites",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i133",
+    "topic": "Tourism",
+    "commonQuestion": "mass tourism damages local communities and the environment",
+    "mainIdea": "A major point is that tourism can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "local economy",
+      "heritage conservation",
+      "sustainable tourism"
+    ],
+    "commonIssue": "mass tourism damages local communities and the environment",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i134",
+    "topic": "Tourism",
+    "commonQuestion": "international tourism brings more benefits than problems",
+    "mainIdea": "A major point is that tourism can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "overcrowding",
+      "local economy",
+      "cultural sites"
+    ],
+    "commonIssue": "international tourism brings more benefits than problems",
+    "relatedPrompts": []
+  },
+  {
+    "id": "i135",
+    "topic": "Tourism",
+    "commonQuestion": "tourists should pay extra taxes to protect cultural sites",
+    "mainIdea": "A major point is that tourists can affect ordinary people’s daily choices.",
+    "supportingIdea": "This is important because small individual decisions often become a wider social pattern when they are repeated by millions of people.",
+    "example": "For example, in many urban areas, families change their habits when tourism policies become easier to follow and more affordable.",
+    "usefulVocabulary": [
+      "tourist behaviour",
+      "seasonal employment",
+      "cultural sites"
+    ],
+    "commonIssue": "tourists should pay extra taxes to protect cultural sites",
+    "relatedPrompts": []
+  }
+]

@@ -1,0 +1,2 @@
+
+.lesson-layout{display:grid;grid-template-columns:280px 1fr;gap:18px}.lesson-toc{position:sticky;top:20px;align-self:start}.lesson-section{scroll-margin-top:20px}.lesson-section h3{display:flex;gap:10px;align-items:center}.example-box{border:1px solid var(--line);border-radius:18px;padding:14px;background:var(--panel-2);margin:10px 0}.check-item{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-bottom:1px dashed var(--line)}.check-item input{margin-top:4px}@media (max-width:950px){.lesson-layout{grid-template-columns:1fr}.lesson-toc{position:relative}}

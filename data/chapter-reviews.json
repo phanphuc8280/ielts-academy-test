@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "ch01-review",
+    "chapterId": "ch01",
+    "title": "Chapter 1 Review: Orientation",
+    "summary": "Tổng kết những kỹ năng trong Orientation: Orientation, Band Awareness, Learning Workflow, Diagnostic Assessment, Learning Profile, Ask Teacher Context",
+    "mindmap": [
+      {
+        "node": "Orientation",
+        "connectsTo": "Band Awareness"
+      },
+      {
+        "node": "Band Awareness",
+        "connectsTo": "Learning Workflow"
+      },
+      {
+        "node": "Learning Workflow",
+        "connectsTo": "Diagnostic Assessment"
+      },
+      {
+        "node": "Diagnostic Assessment",
+        "connectsTo": "Learning Profile"
+      },
+      {
+        "node": "Learning Profile",
+        "connectsTo": "Ask Teacher Context"
+      },
+      {
+        "node": "Ask Teacher Context",
+        "connectsTo": "Chapter Checkpoint"
+      },
+      {
+        "node": "Chapter Checkpoint",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Orientation",
+      "Nhảy sang skill khác khi đang học Band Awareness",
+      "Nhảy sang skill khác khi đang học Learning Workflow"
+    ],
+    "miniTest": [
+      {
+        "id": "ch01-l01-homework-main",
+        "lessonId": "ch01-l01",
+        "skill": "orientation",
+        "skillName": "Orientation",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Orientation without hints",
+        "objective": "Kiểm tra xem em tự làm được Orientation chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "",
+        "contextPrompt": "",
+        "task": "Complete your learning profile and write three concrete difficulties you face in IELTS Writing Task 2.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Orientation.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Orientation only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Orientation.",
+        "difficulty": "Core",
+        "topic": "Environment",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch01-l02-homework-main",
+        "lessonId": "ch01-l02",
+        "skill": "band-awareness",
+        "skillName": "Band Awareness",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Band Awareness without hints",
+        "objective": "Kiểm tra xem em tự làm được Band Awareness chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "",
+        "contextPrompt": "",
+        "task": "Complete your learning profile and write three concrete difficulties you face in IELTS Writing Task 2.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Band Awareness.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Band Awareness only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Band Awareness.",
+        "difficulty": "Core",
+        "topic": "Health",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch01-l03-homework-main",
+        "lessonId": "ch01-l03",
+        "skill": "learning-workflow",
+        "skillName": "Learning Workflow",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Learning Workflow without hints",
+        "objective": "Kiểm tra xem em tự làm được Learning Workflow chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "",
+        "contextPrompt": "",
+        "task": "Complete your learning profile and write three concrete difficulties you face in IELTS Writing Task 2.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Learning Workflow.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Learning Workflow only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Learning Workflow.",
+        "difficulty": "Core",
+        "topic": "Work",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 1 progress and decide whether I should unlock the next chapter. Focus on these skills: Orientation, Band Awareness, Learning Workflow, Diagnostic Assessment, Learning Profile, Ask Teacher Context"
+  },
+  {
+    "id": "ch02-review",
+    "chapterId": "ch02",
+    "title": "Chapter 2 Review: Task 2 Foundation",
+    "summary": "Tổng kết những kỹ năng trong Task 2 Foundation: Task 2 Overview, Essay Type Recognition, Question Analysis, Instruction Words, Topic vs Focus, Question Analysis",
+    "mindmap": [
+      {
+        "node": "Task 2 Overview",
+        "connectsTo": "Essay Type Recognition"
+      },
+      {
+        "node": "Essay Type Recognition",
+        "connectsTo": "Question Analysis"
+      },
+      {
+        "node": "Question Analysis",
+        "connectsTo": "Instruction Words"
+      },
+      {
+        "node": "Instruction Words",
+        "connectsTo": "Topic vs Focus"
+      },
+      {
+        "node": "Topic vs Focus",
+        "connectsTo": "Question Analysis"
+      },
+      {
+        "node": "Question Analysis",
+        "connectsTo": "Chapter Checkpoint"
+      },
+      {
+        "node": "Chapter Checkpoint",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Task 2 Overview",
+      "Nhảy sang skill khác khi đang học Essay Type Recognition",
+      "Nhảy sang skill khác khi đang học Question Analysis"
+    ],
+    "miniTest": [
+      {
+        "id": "ch02-l01-homework-main",
+        "lessonId": "ch02-l01",
+        "skill": "task2-overview",
+        "skillName": "Task 2 Overview",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Task 2 Overview without hints",
+        "objective": "Kiểm tra xem em tự làm được Task 2 Overview chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that urbanisation policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that urbanisation policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for task2 overview only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Task 2 Overview.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Task 2 Overview only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Task 2 Overview.",
+        "difficulty": "Core",
+        "topic": "Health",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch02-l02-homework-main",
+        "lessonId": "ch02-l02",
+        "skill": "essay-type-recognition",
+        "skillName": "Essay Type Recognition",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Essay Type Recognition without hints",
+        "objective": "Kiểm tra xem em tự làm được Essay Type Recognition chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that transport policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that transport policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for essay type recognition only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Essay Type Recognition.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Essay Type Recognition only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Essay Type Recognition.",
+        "difficulty": "Core",
+        "topic": "Work",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch02-l03-homework-main",
+        "lessonId": "ch02-l03",
+        "skill": "question-analysis",
+        "skillName": "Question Analysis",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Question Analysis without hints",
+        "objective": "Kiểm tra xem em tự làm được Question Analysis chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that culture policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that culture policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for question analysis only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Question Analysis.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Question Analysis only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Question Analysis.",
+        "difficulty": "Core",
+        "topic": "Government",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 2 progress and decide whether I should unlock the next chapter. Focus on these skills: Task 2 Overview, Essay Type Recognition, Question Analysis, Instruction Words, Topic vs Focus, Question Analysis"
+  },
+  {
+    "id": "ch03-review",
+    "chapterId": "ch03",
+    "title": "Chapter 3 Review: Brainstorm & Task Response",
+    "summary": "Tổng kết những kỹ năng trong Brainstorm & Task Response: Main Ideas, Idea Filtering, Argument Comparison, Supporting Ideas, Consequences, Examples",
+    "mindmap": [
+      {
+        "node": "Main Ideas",
+        "connectsTo": "Idea Filtering"
+      },
+      {
+        "node": "Idea Filtering",
+        "connectsTo": "Argument Comparison"
+      },
+      {
+        "node": "Argument Comparison",
+        "connectsTo": "Supporting Ideas"
+      },
+      {
+        "node": "Supporting Ideas",
+        "connectsTo": "Consequences"
+      },
+      {
+        "node": "Consequences",
+        "connectsTo": "Examples"
+      },
+      {
+        "node": "Examples",
+        "connectsTo": "Outline"
+      },
+      {
+        "node": "Outline",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Main Ideas",
+      "Nhảy sang skill khác khi đang học Idea Filtering",
+      "Nhảy sang skill khác khi đang học Argument Comparison"
+    ],
+    "miniTest": [
+      {
+        "id": "ch03-l01-homework-main",
+        "lessonId": "ch03-l01",
+        "skill": "main-ideas",
+        "skillName": "Main Ideas",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Main Ideas without hints",
+        "objective": "Kiểm tra xem em tự làm được Main Ideas chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that science policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that science policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write TWO main ideas only. No explanation.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Main Ideas.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Main Ideas only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Main Ideas.",
+        "difficulty": "Core",
+        "topic": "Work",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch03-l02-homework-main",
+        "lessonId": "ch03-l02",
+        "skill": "idea-filtering",
+        "skillName": "Idea Filtering",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Idea Filtering without hints",
+        "objective": "Kiểm tra xem em tự làm được Idea Filtering chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that family policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that family policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write TWO main ideas only. No explanation.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Idea Filtering.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Idea Filtering only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Idea Filtering.",
+        "difficulty": "Core",
+        "topic": "Government",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch03-l03-homework-main",
+        "lessonId": "ch03-l03",
+        "skill": "argument-comparison",
+        "skillName": "Argument Comparison",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Argument Comparison without hints",
+        "objective": "Kiểm tra xem em tự làm được Argument Comparison chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that technology policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that technology policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for argument comparison only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Argument Comparison.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Argument Comparison only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Argument Comparison.",
+        "difficulty": "Core",
+        "topic": "Society",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 3 progress and decide whether I should unlock the next chapter. Focus on these skills: Main Ideas, Idea Filtering, Argument Comparison, Supporting Ideas, Consequences, Examples"
+  },
+  {
+    "id": "ch04-review",
+    "chapterId": "ch04",
+    "title": "Chapter 4 Review: Introduction Builder",
+    "summary": "Tổng kết những kỹ năng trong Introduction Builder: Paraphrase, Opening Sentence, Opinion Thesis, Discussion Thesis, Problem/Solution Thesis, Outline Sentence",
+    "mindmap": [
+      {
+        "node": "Paraphrase",
+        "connectsTo": "Opening Sentence"
+      },
+      {
+        "node": "Opening Sentence",
+        "connectsTo": "Opinion Thesis"
+      },
+      {
+        "node": "Opinion Thesis",
+        "connectsTo": "Discussion Thesis"
+      },
+      {
+        "node": "Discussion Thesis",
+        "connectsTo": "Problem/Solution Thesis"
+      },
+      {
+        "node": "Problem/Solution Thesis",
+        "connectsTo": "Outline Sentence"
+      },
+      {
+        "node": "Outline Sentence",
+        "connectsTo": "Introduction Checkpoint"
+      },
+      {
+        "node": "Introduction Checkpoint",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Paraphrase",
+      "Nhảy sang skill khác khi đang học Opening Sentence",
+      "Nhảy sang skill khác khi đang học Opinion Thesis"
+    ],
+    "miniTest": [
+      {
+        "id": "ch04-l01-homework-main",
+        "lessonId": "ch04-l01",
+        "skill": "paraphrase",
+        "skillName": "Paraphrase",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Paraphrase without hints",
+        "objective": "Kiểm tra xem em tự làm được Paraphrase chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that government policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that government policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Paraphrase this question only. Do not write a thesis.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Paraphrase.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Paraphrase only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Paraphrase.",
+        "difficulty": "Core",
+        "topic": "Government",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch04-l02-homework-main",
+        "lessonId": "ch04-l02",
+        "skill": "opening-sentence",
+        "skillName": "Opening Sentence",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Opening Sentence without hints",
+        "objective": "Kiểm tra xem em tự làm được Opening Sentence chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that science policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that science policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for opening sentence only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Opening Sentence.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Opening Sentence only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Opening Sentence.",
+        "difficulty": "Core",
+        "topic": "Society",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch04-l03-homework-main",
+        "lessonId": "ch04-l03",
+        "skill": "thesis-opinion",
+        "skillName": "Opinion Thesis",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Opinion Thesis without hints",
+        "objective": "Kiểm tra xem em tự làm được Opinion Thesis chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that health policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that health policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write ONE thesis statement only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Opinion Thesis.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Opinion Thesis only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Opinion Thesis.",
+        "difficulty": "Core",
+        "topic": "Crime",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 4 progress and decide whether I should unlock the next chapter. Focus on these skills: Paraphrase, Opening Sentence, Opinion Thesis, Discussion Thesis, Problem/Solution Thesis, Outline Sentence"
+  },
+  {
+    "id": "ch05-review",
+    "chapterId": "ch05",
+    "title": "Chapter 5 Review: Body Paragraph Builder",
+    "summary": "Tổng kết những kỹ năng trong Body Paragraph Builder: Topic Sentence, Explanation, Cause–Effect Explanation, Benefit / Drawback Explanation, Body Examples, Cohesion",
+    "mindmap": [
+      {
+        "node": "Topic Sentence",
+        "connectsTo": "Explanation"
+      },
+      {
+        "node": "Explanation",
+        "connectsTo": "Cause–Effect Explanation"
+      },
+      {
+        "node": "Cause–Effect Explanation",
+        "connectsTo": "Benefit / Drawback Explanation"
+      },
+      {
+        "node": "Benefit / Drawback Explanation",
+        "connectsTo": "Body Examples"
+      },
+      {
+        "node": "Body Examples",
+        "connectsTo": "Cohesion"
+      },
+      {
+        "node": "Cohesion",
+        "connectsTo": "Paragraph Unity"
+      },
+      {
+        "node": "Paragraph Unity",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Topic Sentence",
+      "Nhảy sang skill khác khi đang học Explanation",
+      "Nhảy sang skill khác khi đang học Cause–Effect Explanation"
+    ],
+    "miniTest": [
+      {
+        "id": "ch05-l01-homework-main",
+        "lessonId": "ch05-l01",
+        "skill": "topic-sentence",
+        "skillName": "Topic Sentence",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Topic Sentence without hints",
+        "objective": "Kiểm tra xem em tự làm được Topic Sentence chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that sports policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that sports policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write ONE topic sentence for Body Paragraph 1 only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Topic Sentence.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Topic Sentence only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Topic Sentence.",
+        "difficulty": "Core",
+        "topic": "Society",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch05-l02-homework-main",
+        "lessonId": "ch05-l02",
+        "skill": "explanation",
+        "skillName": "Explanation",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Explanation without hints",
+        "objective": "Kiểm tra xem em tự làm được Explanation chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that education policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that education policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for explanation only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Explanation.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Explanation only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Explanation.",
+        "difficulty": "Core",
+        "topic": "Crime",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch05-l03-homework-main",
+        "lessonId": "ch05-l03",
+        "skill": "cause-effect",
+        "skillName": "Cause–Effect Explanation",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Cause–Effect Explanation without hints",
+        "objective": "Kiểm tra xem em tự làm được Cause–Effect Explanation chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that media policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that media policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for cause effect only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Cause–Effect Explanation.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Cause–Effect Explanation only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Cause–Effect Explanation.",
+        "difficulty": "Core",
+        "topic": "Media",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 5 progress and decide whether I should unlock the next chapter. Focus on these skills: Topic Sentence, Explanation, Cause–Effect Explanation, Benefit / Drawback Explanation, Body Examples, Cohesion"
+  },
+  {
+    "id": "ch06-review",
+    "chapterId": "ch06",
+    "title": "Chapter 6 Review: Conclusion Builder",
+    "summary": "Tổng kết những kỹ năng trong Conclusion Builder: Conclusion, Restate Thesis, Summary Conclusion, No New Ideas, Recommendation, Conclusion by Essay Type",
+    "mindmap": [
+      {
+        "node": "Conclusion",
+        "connectsTo": "Restate Thesis"
+      },
+      {
+        "node": "Restate Thesis",
+        "connectsTo": "Summary Conclusion"
+      },
+      {
+        "node": "Summary Conclusion",
+        "connectsTo": "No New Ideas"
+      },
+      {
+        "node": "No New Ideas",
+        "connectsTo": "Recommendation"
+      },
+      {
+        "node": "Recommendation",
+        "connectsTo": "Conclusion by Essay Type"
+      },
+      {
+        "node": "Conclusion by Essay Type",
+        "connectsTo": "Conclusion Checkpoint"
+      },
+      {
+        "node": "Conclusion Checkpoint",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Conclusion",
+      "Nhảy sang skill khác khi đang học Restate Thesis",
+      "Nhảy sang skill khác khi đang học Summary Conclusion"
+    ],
+    "miniTest": [
+      {
+        "id": "ch06-l01-homework-main",
+        "lessonId": "ch06-l01",
+        "skill": "conclusion",
+        "skillName": "Conclusion",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Conclusion without hints",
+        "objective": "Kiểm tra xem em tự làm được Conclusion chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that food policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that food policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write a 30-40 word conclusion only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Conclusion.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Conclusion only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Conclusion.",
+        "difficulty": "Core",
+        "topic": "Crime",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch06-l02-homework-main",
+        "lessonId": "ch06-l02",
+        "skill": "restate-thesis",
+        "skillName": "Restate Thesis",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Restate Thesis without hints",
+        "objective": "Kiểm tra xem em tự làm được Restate Thesis chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that transport policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that transport policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write ONE thesis statement only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Restate Thesis.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Restate Thesis only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Restate Thesis.",
+        "difficulty": "Core",
+        "topic": "Media",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch06-l03-homework-main",
+        "lessonId": "ch06-l03",
+        "skill": "summary-conclusion",
+        "skillName": "Summary Conclusion",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Summary Conclusion without hints",
+        "objective": "Kiểm tra xem em tự làm được Summary Conclusion chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that technology policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that technology policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Write a 30-40 word conclusion only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Summary Conclusion.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Summary Conclusion only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Summary Conclusion.",
+        "difficulty": "Core",
+        "topic": "Family",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 6 progress and decide whether I should unlock the next chapter. Focus on these skills: Conclusion, Restate Thesis, Summary Conclusion, No New Ideas, Recommendation, Conclusion by Essay Type"
+  },
+  {
+    "id": "ch07-review",
+    "chapterId": "ch07",
+    "title": "Chapter 7 Review: Full Essay Pipeline",
+    "summary": "Tổng kết những kỹ năng trong Full Essay Pipeline: Full Essay Unlock, Full Essay Outline, Full Essay Introduction, Full Essay Body 1, Full Essay Body 2, Full Essay Conclusion",
+    "mindmap": [
+      {
+        "node": "Full Essay Unlock",
+        "connectsTo": "Full Essay Outline"
+      },
+      {
+        "node": "Full Essay Outline",
+        "connectsTo": "Full Essay Introduction"
+      },
+      {
+        "node": "Full Essay Introduction",
+        "connectsTo": "Full Essay Body 1"
+      },
+      {
+        "node": "Full Essay Body 1",
+        "connectsTo": "Full Essay Body 2"
+      },
+      {
+        "node": "Full Essay Body 2",
+        "connectsTo": "Full Essay Conclusion"
+      },
+      {
+        "node": "Full Essay Conclusion",
+        "connectsTo": "Self Review"
+      },
+      {
+        "node": "Self Review",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Full Essay Unlock",
+      "Nhảy sang skill khác khi đang học Full Essay Outline",
+      "Nhảy sang skill khác khi đang học Full Essay Introduction"
+    ],
+    "miniTest": [
+      {
+        "id": "ch07-l01-homework-main",
+        "lessonId": "ch07-l01",
+        "skill": "full-essay-unlock",
+        "skillName": "Full Essay Unlock",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Full Essay Unlock without hints",
+        "objective": "Kiểm tra xem em tự làm được Full Essay Unlock chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that money policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that money policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Use this prompt only after all prerequisite skills are Mastered.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Full Essay Unlock.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Full Essay Unlock only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Full Essay Unlock.",
+        "difficulty": "Core",
+        "topic": "Media",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch07-l02-homework-main",
+        "lessonId": "ch07-l02",
+        "skill": "full-outline",
+        "skillName": "Full Essay Outline",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Full Essay Outline without hints",
+        "objective": "Kiểm tra xem em tự làm được Full Essay Outline chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that urbanisation policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that urbanisation policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Use this prompt only after all prerequisite skills are Mastered.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Full Essay Outline.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Full Essay Outline only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Full Essay Outline.",
+        "difficulty": "Core",
+        "topic": "Family",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch07-l03-homework-main",
+        "lessonId": "ch07-l03",
+        "skill": "full-introduction",
+        "skillName": "Full Essay Introduction",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Full Essay Introduction without hints",
+        "objective": "Kiểm tra xem em tự làm được Full Essay Introduction chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that crime policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that crime policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Use this prompt only after all prerequisite skills are Mastered.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Full Essay Introduction.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Full Essay Introduction only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Full Essay Introduction.",
+        "difficulty": "Core",
+        "topic": "Transport",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 7 progress and decide whether I should unlock the next chapter. Focus on these skills: Full Essay Unlock, Full Essay Outline, Full Essay Introduction, Full Essay Body 1, Full Essay Body 2, Full Essay Conclusion"
+  },
+  {
+    "id": "ch08-review",
+    "chapterId": "ch08",
+    "title": "Chapter 8 Review: Band Booster 6.5+",
+    "summary": "Tổng kết những kỹ năng trong Band Booster 6.5+: Task Response Depth, Coherence Progression, Lexical Collocation, Grammar Accuracy, Concession, Band 6.5 Phrases",
+    "mindmap": [
+      {
+        "node": "Task Response Depth",
+        "connectsTo": "Coherence Progression"
+      },
+      {
+        "node": "Coherence Progression",
+        "connectsTo": "Lexical Collocation"
+      },
+      {
+        "node": "Lexical Collocation",
+        "connectsTo": "Grammar Accuracy"
+      },
+      {
+        "node": "Grammar Accuracy",
+        "connectsTo": "Concession"
+      },
+      {
+        "node": "Concession",
+        "connectsTo": "Band 6.5 Phrases"
+      },
+      {
+        "node": "Band 6.5 Phrases",
+        "connectsTo": "Band Rewrite"
+      },
+      {
+        "node": "Band Rewrite",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Task Response Depth",
+      "Nhảy sang skill khác khi đang học Coherence Progression",
+      "Nhảy sang skill khác khi đang học Lexical Collocation"
+    ],
+    "miniTest": [
+      {
+        "id": "ch08-l01-homework-main",
+        "lessonId": "ch08-l01",
+        "skill": "task-response-depth",
+        "skillName": "Task Response Depth",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Task Response Depth without hints",
+        "objective": "Kiểm tra xem em tự làm được Task Response Depth chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that environment policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that environment policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for task response depth only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Task Response Depth.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Task Response Depth only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Task Response Depth.",
+        "difficulty": "Core",
+        "topic": "Family",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch08-l02-homework-main",
+        "lessonId": "ch08-l02",
+        "skill": "coherence-progression",
+        "skillName": "Coherence Progression",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Coherence Progression without hints",
+        "objective": "Kiểm tra xem em tự làm được Coherence Progression chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that globalisation policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that globalisation policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for coherence progression only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Coherence Progression.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Coherence Progression only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Coherence Progression.",
+        "difficulty": "Core",
+        "topic": "Transport",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch08-l03-homework-main",
+        "lessonId": "ch08-l03",
+        "skill": "lexical-collocation",
+        "skillName": "Lexical Collocation",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Lexical Collocation without hints",
+        "objective": "Kiểm tra xem em tự làm được Lexical Collocation chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that sports policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that sports policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for lexical collocation only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Lexical Collocation.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Lexical Collocation only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Lexical Collocation.",
+        "difficulty": "Core",
+        "topic": "Globalisation",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 8 progress and decide whether I should unlock the next chapter. Focus on these skills: Task Response Depth, Coherence Progression, Lexical Collocation, Grammar Accuracy, Concession, Band 6.5 Phrases"
+  },
+  {
+    "id": "ch09-review",
+    "chapterId": "ch09",
+    "title": "Chapter 9 Review: Timed Practice & Error Review",
+    "summary": "Tổng kết những kỹ năng trong Timed Practice & Error Review: Timed Routine, Timed Opinion Essay, Timed Discussion Essay, Timed Advantages / Disadvantages, Timed Problem / Solution, Timed Two-part Question",
+    "mindmap": [
+      {
+        "node": "Timed Routine",
+        "connectsTo": "Timed Opinion Essay"
+      },
+      {
+        "node": "Timed Opinion Essay",
+        "connectsTo": "Timed Discussion Essay"
+      },
+      {
+        "node": "Timed Discussion Essay",
+        "connectsTo": "Timed Advantages / Disadvantages"
+      },
+      {
+        "node": "Timed Advantages / Disadvantages",
+        "connectsTo": "Timed Problem / Solution"
+      },
+      {
+        "node": "Timed Problem / Solution",
+        "connectsTo": "Timed Two-part Question"
+      },
+      {
+        "node": "Timed Two-part Question",
+        "connectsTo": "Post-test Review"
+      },
+      {
+        "node": "Post-test Review",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Timed Routine",
+      "Nhảy sang skill khác khi đang học Timed Opinion Essay",
+      "Nhảy sang skill khác khi đang học Timed Discussion Essay"
+    ],
+    "miniTest": [
+      {
+        "id": "ch09-l01-homework-main",
+        "lessonId": "ch09-l01",
+        "skill": "timed-routine",
+        "skillName": "Timed Routine",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Timed Routine without hints",
+        "objective": "Kiểm tra xem em tự làm được Timed Routine chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that health policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that health policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for timed routine only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Timed Routine.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Timed Routine only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Timed Routine.",
+        "difficulty": "Core",
+        "topic": "Transport",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch09-l02-homework-main",
+        "lessonId": "ch09-l02",
+        "skill": "timed-opinion",
+        "skillName": "Timed Opinion Essay",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Timed Opinion Essay without hints",
+        "objective": "Kiểm tra xem em tự làm được Timed Opinion Essay chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that transport policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that transport policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for timed opinion only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Timed Opinion Essay.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Timed Opinion Essay only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Timed Opinion Essay.",
+        "difficulty": "Core",
+        "topic": "Globalisation",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch09-l03-homework-main",
+        "lessonId": "ch09-l03",
+        "skill": "timed-discussion",
+        "skillName": "Timed Discussion Essay",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Timed Discussion Essay without hints",
+        "objective": "Kiểm tra xem em tự làm được Timed Discussion Essay chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that education policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that education policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for timed discussion only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Timed Discussion Essay.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Timed Discussion Essay only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Timed Discussion Essay.",
+        "difficulty": "Core",
+        "topic": "Culture",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 9 progress and decide whether I should unlock the next chapter. Focus on these skills: Timed Routine, Timed Opinion Essay, Timed Discussion Essay, Timed Advantages / Disadvantages, Timed Problem / Solution, Timed Two-part Question"
+  },
+  {
+    "id": "ch10-review",
+    "chapterId": "ch10",
+    "title": "Chapter 10 Review: Final Mock & Exam Plan",
+    "summary": "Tổng kết những kỹ năng trong Final Mock & Exam Plan: Error Log, Articles, Subject–Verb Agreement / Fragments, Run-on / Punctuation, Vocabulary Cleanup, Final Mock",
+    "mindmap": [
+      {
+        "node": "Error Log",
+        "connectsTo": "Articles"
+      },
+      {
+        "node": "Articles",
+        "connectsTo": "Subject–Verb Agreement / Fragments"
+      },
+      {
+        "node": "Subject–Verb Agreement / Fragments",
+        "connectsTo": "Run-on / Punctuation"
+      },
+      {
+        "node": "Run-on / Punctuation",
+        "connectsTo": "Vocabulary Cleanup"
+      },
+      {
+        "node": "Vocabulary Cleanup",
+        "connectsTo": "Final Mock"
+      },
+      {
+        "node": "Final Mock",
+        "connectsTo": "Graduation Plan"
+      },
+      {
+        "node": "Graduation Plan",
+        "connectsTo": "Checkpoint"
+      }
+    ],
+    "commonMistakes": [
+      "Nhảy sang skill khác khi đang học Error Log",
+      "Nhảy sang skill khác khi đang học Articles",
+      "Nhảy sang skill khác khi đang học Subject–Verb Agreement / Fragments"
+    ],
+    "miniTest": [
+      {
+        "id": "ch10-l01-homework-main",
+        "lessonId": "ch10-l01",
+        "skill": "error-log",
+        "skillName": "Error Log",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Error Log without hints",
+        "objective": "Kiểm tra xem em tự làm được Error Log chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that society policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that society policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for error log only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Error Log.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Error Log only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Error Log.",
+        "difficulty": "Core",
+        "topic": "Globalisation",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch10-l02-homework-main",
+        "lessonId": "ch10-l02",
+        "skill": "articles",
+        "skillName": "Articles",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Articles without hints",
+        "objective": "Kiểm tra xem em tự làm được Articles chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that culture policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that culture policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for articles only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Articles.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Articles only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Articles.",
+        "difficulty": "Core",
+        "topic": "Culture",
+        "timeMinutes": 15
+      },
+      {
+        "id": "ch10-l03-homework-main",
+        "lessonId": "ch10-l03",
+        "skill": "subject-verb-fragment",
+        "skillName": "Subject–Verb Agreement / Fragments",
+        "type": "homework",
+        "level": "Independent homework",
+        "title": "Homework: Subject–Verb Agreement / Fragments without hints",
+        "objective": "Kiểm tra xem em tự làm được Subject–Verb Agreement / Fragments chưa.",
+        "situation": "Đây là bài tự làm. Không còn scaffold như Skill Practice. Giáo viên/AI chỉ chữa sau khi em nộp.",
+        "context": "Some people believe that culture policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "contextPrompt": "Some people believe that culture policies should focus more on long-term public benefits than on short-term individual convenience. Discuss this view and give your own opinion.",
+        "task": "Complete the task for subject verb fragment only.",
+        "requirement": "Không dùng hint. Không copy Practice. Nộp đúng sản phẩm của Subject–Verb Agreement / Fragments.",
+        "example": "Do not copy the sample. Use it only to understand the expected size and clarity.",
+        "checklist": [
+          "This is Subject–Verb Agreement / Fragments only.",
+          "New context, not copied from practice.",
+          "Requirement is complete.",
+          "Ready for AI/teacher feedback."
+        ],
+        "expectedOutcome": "Giáo viên/AI có đủ dữ liệu để đánh giá mastery của Subject–Verb Agreement / Fragments.",
+        "difficulty": "Core",
+        "topic": "Money",
+        "timeMinutes": 15
+      }
+    ],
+    "reflection": [
+      "Kỹ năng nào dễ nhất trong chapter này?",
+      "Kỹ năng nào cần Teacher Review?",
+      "Em có đủ điều kiện unlock chapter tiếp theo chưa?"
+    ],
+    "aiReviewPrompt": "Please review my Chapter 10 progress and decide whether I should unlock the next chapter. Focus on these skills: Error Log, Articles, Subject–Verb Agreement / Fragments, Run-on / Punctuation, Vocabulary Cleanup, Final Mock"
+  }
+]

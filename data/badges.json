@@ -1,0 +1,44 @@
+[
+  {
+    "id": "first-lesson",
+    "name": "First Step",
+    "descriptionVi": "Hoàn thành lesson đầu tiên",
+    "xp": 20
+  },
+  {
+    "id": "brainstormer",
+    "name": "Brainstormer",
+    "descriptionVi": "Lưu 5 bài brainstorm",
+    "xp": 30
+  },
+  {
+    "id": "essay-writer",
+    "name": "Essay Writer",
+    "descriptionVi": "Lưu 3 full essays",
+    "xp": 50
+  },
+  {
+    "id": "rewrite-master",
+    "name": "Rewrite Master",
+    "descriptionVi": "Rewrite 5 bài sau feedback",
+    "xp": 60
+  },
+  {
+    "id": "error-hunter",
+    "name": "Error Hunter",
+    "descriptionVi": "Ghi 10 lỗi vào Error Book",
+    "xp": 40
+  },
+  {
+    "id": "vocab-builder",
+    "name": "Vocab Builder",
+    "descriptionVi": "Master 30 từ/cụm từ",
+    "xp": 40
+  },
+  {
+    "id": "mock-ready",
+    "name": "Mock Ready",
+    "descriptionVi": "Hoàn thành Final Mock Test",
+    "xp": 100
+  }
+]
