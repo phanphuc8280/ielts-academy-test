@@ -1,7 +1,7 @@
 [
   {
     "lessonId": "ch01-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l01.md",
     "grammarNotes": "resources/grammar-notes/ch01-l01.md",
     "band9Example": "resources/band9-examples/ch01-l01.md",
@@ -9,7 +9,7 @@
   },
   {
     "lessonId": "ch01-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l02.md",
     "grammarNotes": "resources/grammar-notes/ch01-l02.md",
     "band9Example": "resources/band9-examples/ch01-l02.md",
@@ -17,7 +17,7 @@
   },
   {
     "lessonId": "ch01-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l03.md",
     "grammarNotes": "resources/grammar-notes/ch01-l03.md",
     "band9Example": "resources/band9-examples/ch01-l03.md",
@@ -25,7 +25,7 @@
   },
   {
     "lessonId": "ch01-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l04.md",
     "grammarNotes": "resources/grammar-notes/ch01-l04.md",
     "band9Example": "resources/band9-examples/ch01-l04.md",
@@ -33,7 +33,7 @@
   },
   {
     "lessonId": "ch01-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l05.md",
     "grammarNotes": "resources/grammar-notes/ch01-l05.md",
     "band9Example": "resources/band9-examples/ch01-l05.md",
@@ -41,7 +41,7 @@
   },
   {
     "lessonId": "ch01-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l06.md",
     "grammarNotes": "resources/grammar-notes/ch01-l06.md",
     "band9Example": "resources/band9-examples/ch01-l06.md",
@@ -49,7 +49,7 @@
   },
   {
     "lessonId": "ch01-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch01-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch01-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch01-l07.md",
     "grammarNotes": "resources/grammar-notes/ch01-l07.md",
     "band9Example": "resources/band9-examples/ch01-l07.md",
@@ -57,7 +57,7 @@
   },
   {
     "lessonId": "ch02-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l01.md",
     "grammarNotes": "resources/grammar-notes/ch02-l01.md",
     "band9Example": "resources/band9-examples/ch02-l01.md",
@@ -65,7 +65,7 @@
   },
   {
     "lessonId": "ch02-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l02.md",
     "grammarNotes": "resources/grammar-notes/ch02-l02.md",
     "band9Example": "resources/band9-examples/ch02-l02.md",
@@ -73,7 +73,7 @@
   },
   {
     "lessonId": "ch02-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l03.md",
     "grammarNotes": "resources/grammar-notes/ch02-l03.md",
     "band9Example": "resources/band9-examples/ch02-l03.md",
@@ -81,7 +81,7 @@
   },
   {
     "lessonId": "ch02-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l04.md",
     "grammarNotes": "resources/grammar-notes/ch02-l04.md",
     "band9Example": "resources/band9-examples/ch02-l04.md",
@@ -89,7 +89,7 @@
   },
   {
     "lessonId": "ch02-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l05.md",
     "grammarNotes": "resources/grammar-notes/ch02-l05.md",
     "band9Example": "resources/band9-examples/ch02-l05.md",
@@ -97,7 +97,7 @@
   },
   {
     "lessonId": "ch02-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l06.md",
     "grammarNotes": "resources/grammar-notes/ch02-l06.md",
     "band9Example": "resources/band9-examples/ch02-l06.md",
@@ -105,7 +105,7 @@
   },
   {
     "lessonId": "ch02-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch02-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch02-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch02-l07.md",
     "grammarNotes": "resources/grammar-notes/ch02-l07.md",
     "band9Example": "resources/band9-examples/ch02-l07.md",
@@ -113,7 +113,7 @@
   },
   {
     "lessonId": "ch03-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l01.md",
     "grammarNotes": "resources/grammar-notes/ch03-l01.md",
     "band9Example": "resources/band9-examples/ch03-l01.md",
@@ -121,7 +121,7 @@
   },
   {
     "lessonId": "ch03-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l02.md",
     "grammarNotes": "resources/grammar-notes/ch03-l02.md",
     "band9Example": "resources/band9-examples/ch03-l02.md",
@@ -129,7 +129,7 @@
   },
   {
     "lessonId": "ch03-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l03.md",
     "grammarNotes": "resources/grammar-notes/ch03-l03.md",
     "band9Example": "resources/band9-examples/ch03-l03.md",
@@ -137,7 +137,7 @@
   },
   {
     "lessonId": "ch03-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l04.md",
     "grammarNotes": "resources/grammar-notes/ch03-l04.md",
     "band9Example": "resources/band9-examples/ch03-l04.md",
@@ -145,7 +145,7 @@
   },
   {
     "lessonId": "ch03-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l05.md",
     "grammarNotes": "resources/grammar-notes/ch03-l05.md",
     "band9Example": "resources/band9-examples/ch03-l05.md",
@@ -153,7 +153,7 @@
   },
   {
     "lessonId": "ch03-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l06.md",
     "grammarNotes": "resources/grammar-notes/ch03-l06.md",
     "band9Example": "resources/band9-examples/ch03-l06.md",
@@ -161,7 +161,7 @@
   },
   {
     "lessonId": "ch03-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch03-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch03-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch03-l07.md",
     "grammarNotes": "resources/grammar-notes/ch03-l07.md",
     "band9Example": "resources/band9-examples/ch03-l07.md",
@@ -169,7 +169,7 @@
   },
   {
     "lessonId": "ch04-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l01.md",
     "grammarNotes": "resources/grammar-notes/ch04-l01.md",
     "band9Example": "resources/band9-examples/ch04-l01.md",
@@ -177,7 +177,7 @@
   },
   {
     "lessonId": "ch04-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l02.md",
     "grammarNotes": "resources/grammar-notes/ch04-l02.md",
     "band9Example": "resources/band9-examples/ch04-l02.md",
@@ -185,7 +185,7 @@
   },
   {
     "lessonId": "ch04-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l03.md",
     "grammarNotes": "resources/grammar-notes/ch04-l03.md",
     "band9Example": "resources/band9-examples/ch04-l03.md",
@@ -193,7 +193,7 @@
   },
   {
     "lessonId": "ch04-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l04.md",
     "grammarNotes": "resources/grammar-notes/ch04-l04.md",
     "band9Example": "resources/band9-examples/ch04-l04.md",
@@ -201,7 +201,7 @@
   },
   {
     "lessonId": "ch04-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l05.md",
     "grammarNotes": "resources/grammar-notes/ch04-l05.md",
     "band9Example": "resources/band9-examples/ch04-l05.md",
@@ -209,7 +209,7 @@
   },
   {
     "lessonId": "ch04-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l06.md",
     "grammarNotes": "resources/grammar-notes/ch04-l06.md",
     "band9Example": "resources/band9-examples/ch04-l06.md",
@@ -217,7 +217,7 @@
   },
   {
     "lessonId": "ch04-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch04-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch04-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch04-l07.md",
     "grammarNotes": "resources/grammar-notes/ch04-l07.md",
     "band9Example": "resources/band9-examples/ch04-l07.md",
@@ -225,7 +225,7 @@
   },
   {
     "lessonId": "ch05-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l01.md",
     "grammarNotes": "resources/grammar-notes/ch05-l01.md",
     "band9Example": "resources/band9-examples/ch05-l01.md",
@@ -233,7 +233,7 @@
   },
   {
     "lessonId": "ch05-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l02.md",
     "grammarNotes": "resources/grammar-notes/ch05-l02.md",
     "band9Example": "resources/band9-examples/ch05-l02.md",
@@ -241,7 +241,7 @@
   },
   {
     "lessonId": "ch05-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l03.md",
     "grammarNotes": "resources/grammar-notes/ch05-l03.md",
     "band9Example": "resources/band9-examples/ch05-l03.md",
@@ -249,7 +249,7 @@
   },
   {
     "lessonId": "ch05-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l04.md",
     "grammarNotes": "resources/grammar-notes/ch05-l04.md",
     "band9Example": "resources/band9-examples/ch05-l04.md",
@@ -257,7 +257,7 @@
   },
   {
     "lessonId": "ch05-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l05.md",
     "grammarNotes": "resources/grammar-notes/ch05-l05.md",
     "band9Example": "resources/band9-examples/ch05-l05.md",
@@ -265,7 +265,7 @@
   },
   {
     "lessonId": "ch05-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l06.md",
     "grammarNotes": "resources/grammar-notes/ch05-l06.md",
     "band9Example": "resources/band9-examples/ch05-l06.md",
@@ -273,7 +273,7 @@
   },
   {
     "lessonId": "ch05-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch05-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch05-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch05-l07.md",
     "grammarNotes": "resources/grammar-notes/ch05-l07.md",
     "band9Example": "resources/band9-examples/ch05-l07.md",
@@ -281,7 +281,7 @@
   },
   {
     "lessonId": "ch06-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l01.md",
     "grammarNotes": "resources/grammar-notes/ch06-l01.md",
     "band9Example": "resources/band9-examples/ch06-l01.md",
@@ -289,7 +289,7 @@
   },
   {
     "lessonId": "ch06-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l02.md",
     "grammarNotes": "resources/grammar-notes/ch06-l02.md",
     "band9Example": "resources/band9-examples/ch06-l02.md",
@@ -297,7 +297,7 @@
   },
   {
     "lessonId": "ch06-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l03.md",
     "grammarNotes": "resources/grammar-notes/ch06-l03.md",
     "band9Example": "resources/band9-examples/ch06-l03.md",
@@ -305,7 +305,7 @@
   },
   {
     "lessonId": "ch06-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l04.md",
     "grammarNotes": "resources/grammar-notes/ch06-l04.md",
     "band9Example": "resources/band9-examples/ch06-l04.md",
@@ -313,7 +313,7 @@
   },
   {
     "lessonId": "ch06-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l05.md",
     "grammarNotes": "resources/grammar-notes/ch06-l05.md",
     "band9Example": "resources/band9-examples/ch06-l05.md",
@@ -321,7 +321,7 @@
   },
   {
     "lessonId": "ch06-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l06.md",
     "grammarNotes": "resources/grammar-notes/ch06-l06.md",
     "band9Example": "resources/band9-examples/ch06-l06.md",
@@ -329,7 +329,7 @@
   },
   {
     "lessonId": "ch06-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch06-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch06-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch06-l07.md",
     "grammarNotes": "resources/grammar-notes/ch06-l07.md",
     "band9Example": "resources/band9-examples/ch06-l07.md",
@@ -337,7 +337,7 @@
   },
   {
     "lessonId": "ch07-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l01.md",
     "grammarNotes": "resources/grammar-notes/ch07-l01.md",
     "band9Example": "resources/band9-examples/ch07-l01.md",
@@ -345,7 +345,7 @@
   },
   {
     "lessonId": "ch07-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l02.md",
     "grammarNotes": "resources/grammar-notes/ch07-l02.md",
     "band9Example": "resources/band9-examples/ch07-l02.md",
@@ -353,7 +353,7 @@
   },
   {
     "lessonId": "ch07-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l03.md",
     "grammarNotes": "resources/grammar-notes/ch07-l03.md",
     "band9Example": "resources/band9-examples/ch07-l03.md",
@@ -361,7 +361,7 @@
   },
   {
     "lessonId": "ch07-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l04.md",
     "grammarNotes": "resources/grammar-notes/ch07-l04.md",
     "band9Example": "resources/band9-examples/ch07-l04.md",
@@ -369,7 +369,7 @@
   },
   {
     "lessonId": "ch07-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l05.md",
     "grammarNotes": "resources/grammar-notes/ch07-l05.md",
     "band9Example": "resources/band9-examples/ch07-l05.md",
@@ -377,7 +377,7 @@
   },
   {
     "lessonId": "ch07-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l06.md",
     "grammarNotes": "resources/grammar-notes/ch07-l06.md",
     "band9Example": "resources/band9-examples/ch07-l06.md",
@@ -385,7 +385,7 @@
   },
   {
     "lessonId": "ch07-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch07-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch07-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch07-l07.md",
     "grammarNotes": "resources/grammar-notes/ch07-l07.md",
     "band9Example": "resources/band9-examples/ch07-l07.md",
@@ -393,7 +393,7 @@
   },
   {
     "lessonId": "ch08-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l01.md",
     "grammarNotes": "resources/grammar-notes/ch08-l01.md",
     "band9Example": "resources/band9-examples/ch08-l01.md",
@@ -401,7 +401,7 @@
   },
   {
     "lessonId": "ch08-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l02.md",
     "grammarNotes": "resources/grammar-notes/ch08-l02.md",
     "band9Example": "resources/band9-examples/ch08-l02.md",
@@ -409,7 +409,7 @@
   },
   {
     "lessonId": "ch08-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l03.md",
     "grammarNotes": "resources/grammar-notes/ch08-l03.md",
     "band9Example": "resources/band9-examples/ch08-l03.md",
@@ -417,7 +417,7 @@
   },
   {
     "lessonId": "ch08-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l04.md",
     "grammarNotes": "resources/grammar-notes/ch08-l04.md",
     "band9Example": "resources/band9-examples/ch08-l04.md",
@@ -425,7 +425,7 @@
   },
   {
     "lessonId": "ch08-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l05.md",
     "grammarNotes": "resources/grammar-notes/ch08-l05.md",
     "band9Example": "resources/band9-examples/ch08-l05.md",
@@ -433,7 +433,7 @@
   },
   {
     "lessonId": "ch08-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l06.md",
     "grammarNotes": "resources/grammar-notes/ch08-l06.md",
     "band9Example": "resources/band9-examples/ch08-l06.md",
@@ -441,7 +441,7 @@
   },
   {
     "lessonId": "ch08-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch08-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch08-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch08-l07.md",
     "grammarNotes": "resources/grammar-notes/ch08-l07.md",
     "band9Example": "resources/band9-examples/ch08-l07.md",
@@ -449,7 +449,7 @@
   },
   {
     "lessonId": "ch09-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l01.md",
     "grammarNotes": "resources/grammar-notes/ch09-l01.md",
     "band9Example": "resources/band9-examples/ch09-l01.md",
@@ -457,7 +457,7 @@
   },
   {
     "lessonId": "ch09-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l02.md",
     "grammarNotes": "resources/grammar-notes/ch09-l02.md",
     "band9Example": "resources/band9-examples/ch09-l02.md",
@@ -465,7 +465,7 @@
   },
   {
     "lessonId": "ch09-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l03.md",
     "grammarNotes": "resources/grammar-notes/ch09-l03.md",
     "band9Example": "resources/band9-examples/ch09-l03.md",
@@ -473,7 +473,7 @@
   },
   {
     "lessonId": "ch09-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l04.md",
     "grammarNotes": "resources/grammar-notes/ch09-l04.md",
     "band9Example": "resources/band9-examples/ch09-l04.md",
@@ -481,7 +481,7 @@
   },
   {
     "lessonId": "ch09-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l05.md",
     "grammarNotes": "resources/grammar-notes/ch09-l05.md",
     "band9Example": "resources/band9-examples/ch09-l05.md",
@@ -489,7 +489,7 @@
   },
   {
     "lessonId": "ch09-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l06.md",
     "grammarNotes": "resources/grammar-notes/ch09-l06.md",
     "band9Example": "resources/band9-examples/ch09-l06.md",
@@ -497,7 +497,7 @@
   },
   {
     "lessonId": "ch09-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch09-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch09-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch09-l07.md",
     "grammarNotes": "resources/grammar-notes/ch09-l07.md",
     "band9Example": "resources/band9-examples/ch09-l07.md",
@@ -505,7 +505,7 @@
   },
   {
     "lessonId": "ch10-l01",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l01.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l01-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l01.md",
     "grammarNotes": "resources/grammar-notes/ch10-l01.md",
     "band9Example": "resources/band9-examples/ch10-l01.md",
@@ -513,7 +513,7 @@
   },
   {
     "lessonId": "ch10-l02",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l02.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l02-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l02.md",
     "grammarNotes": "resources/grammar-notes/ch10-l02.md",
     "band9Example": "resources/band9-examples/ch10-l02.md",
@@ -521,7 +521,7 @@
   },
   {
     "lessonId": "ch10-l03",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l03.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l03-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l03.md",
     "grammarNotes": "resources/grammar-notes/ch10-l03.md",
     "band9Example": "resources/band9-examples/ch10-l03.md",
@@ -529,7 +529,7 @@
   },
   {
     "lessonId": "ch10-l04",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l04.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l04-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l04.md",
     "grammarNotes": "resources/grammar-notes/ch10-l04.md",
     "band9Example": "resources/band9-examples/ch10-l04.md",
@@ -537,7 +537,7 @@
   },
   {
     "lessonId": "ch10-l05",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l05.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l05-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l05.md",
     "grammarNotes": "resources/grammar-notes/ch10-l05.md",
     "band9Example": "resources/band9-examples/ch10-l05.md",
@@ -545,7 +545,7 @@
   },
   {
     "lessonId": "ch10-l06",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l06.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l06-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l06.md",
     "grammarNotes": "resources/grammar-notes/ch10-l06.md",
     "band9Example": "resources/band9-examples/ch10-l06.md",
@@ -553,7 +553,7 @@
   },
   {
     "lessonId": "ch10-l07",
-    "lessonPdf": "resources/lesson-pdfs/ch10-l07.pdf",
+    "lessonPdf": "resources/lesson-pdfs-v7/ch10-l07-v7.pdf",
     "vocabularySheet": "resources/vocabulary-sheets/ch10-l07.md",
     "grammarNotes": "resources/grammar-notes/ch10-l07.md",
     "band9Example": "resources/band9-examples/ch10-l07.md",
