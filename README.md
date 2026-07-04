@@ -22,3 +22,5 @@ Copy nội dung bên trong `ielts-academy-v7.0` vào root của repo, giữ `.gi
 ## Lưu ý
 
 Bản v7.0 cố tình nặng theo yêu cầu để có nhiều assets/PDF học liệu. Không có file đơn lẻ vượt 100MB.
+Deploy retry v7
+Deploy retry v7
