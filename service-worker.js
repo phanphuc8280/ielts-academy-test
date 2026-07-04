@@ -1,2 +1,2 @@
-// IELTS Academy v4.0 offline-first placeholder.
-// The app is designed to open directly via file:// or through a local static server.
+// IELTS Academy v5.0 static/offline placeholder.
+// This package is designed for GitHub Pages, Vercel, Firebase Hosting, or direct file:// testing.

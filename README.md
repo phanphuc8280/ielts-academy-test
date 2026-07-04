@@ -1,3 +1,48 @@
+
+## v5.1 - 10MB Learner Motivation Pack
+
+Bản này được làm nặng hơn khoảng 10MB để chứa thêm visual assets, workbook PDF, tài liệu luyện tập, và giao diện có chiều sâu hơn. Nội dung không chỉ là pad file: có thêm IELTS Overload Workbook, practice route, prompt packs và assets dùng cho theme.
+
+# IELTS Academy v5.1 – Learner Experience Upgrade
+
+Bản v5.1 tập trung sửa trải nghiệm học thật:
+
+- Sidebar gọn hơn, không còn loạn quá nhiều menu.
+- Router an toàn hơn: trang lỗi không làm chết toàn bộ sidebar.
+- Fix Prompt Bank lỗi `Cannot read properties of undefined (reading length)`.
+- Login được redesign: seed accounts, tạo user mới, switch account rõ hơn.
+- Dashboard tập trung vào Today’s Mission: học gì, làm bài nào, review gì, hỏi chị ở đâu.
+- Giữ dữ liệu v4.0: lessons, PDFs, prompts, sample database, exercise bank, multi-user localStorage.
+- UI style mới: GitHub + VS Code + Duolingo + Coursera + AI dashboard, glassmorphism, glow, hover lift, responsive.
+
+## Cách mở offline
+
+Giải nén file zip, mở:
+
+```text
+ielts-academy-v5.1/index.html
+```
+
+## Cách update lên GitHub Pages
+
+Copy toàn bộ nội dung bên trong thư mục `ielts-academy-v5.1` vào repo GitHub Pages của bạn, giữ `.git` và `.nojekyll`, sau đó Commit → Push bằng GitHub Desktop.
+
+## Account test
+
+- Student: `phuc` / PIN `1234`
+- Teacher: `teacher` / PIN `2222`
+- Admin: `admin` / PIN `0000`
+
+## Lưu ý dữ liệu
+
+Đây vẫn là static web demo. Dữ liệu học tập lưu trong browser localStorage của từng máy. PIN chỉ để mô phỏng LMS offline, không phải bảo mật thật.
+
+## Changelog
+
+### v5.1
+
+Learner Experience Upgrade: giảm menu, sửa render safety, nâng login, fix Prompt Bank, polish UI.
+
 # IELTS Academy v4.0 - Instructional Design Upgrade
 
 IELTS Academy v4.0 upgrades the course from a content-heavy LMS into an instructional-design IELTS Task 2 learning system.
